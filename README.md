@@ -1,1 +1,1 @@
-# StealthGrid
+# StealthCrypto
